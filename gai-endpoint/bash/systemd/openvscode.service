@@ -1,0 +1,11 @@
+Description=openvscode-server v1.91.1
+After=network.target
+
+[Service]
+ExecStart=/bin/bash /home/ubuntu/start_openvscode_server.sh
+Restart=on-failure
+User=ubuntu
+WorkingDirectory=/home/ubuntu
+
+[Install]
+WantedBy=multi-user.target

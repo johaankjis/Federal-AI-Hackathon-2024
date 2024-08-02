@@ -1,0 +1,37 @@
+User Personas
+
+:one: Researchers and Academics:
+
+* Usage: Researchers use NSF.gov/AwardSearch to find information about funded projects in their field, identify potential collaborators, and explore funding opportunities.
+* Impact: Access to detailed award information supports high-quality research, fosters collaboration, and helps researchers secure funding for their projects.
+
+:two: Academic Institutions:
+
+* Usage: Universities and research institutions use the platform to track the success of grant applications, manage awarded grants, and strategize for future funding proposals.
+* Impact: Detailed award data helps institutions enhance their research capabilities, secure funding, and support their faculty and students.
+
+:three: Policymakers and Government Agencies:
+
+* Usage: Policymakers and government officials use the platform to assess the distribution and impact of NSF funding, ensuring alignment with national research priorities and policy goals.
+* Impact: Data-driven decision-making supports the development of effective science and technology policies, promoting national innovation and competitiveness.
+
+:four: Businesses and Entrepreneurs:
+
+* Usage: Businesses and startups use the platform to identify cutting-edge research and potential partnerships, leveraging NSF-funded innovations for commercial development.
+* Impact: Access to information about groundbreaking research supports technological innovation and economic growth, helping businesses stay competitive.
+
+:five: Journalists and Media:
+
+* Usage: Journalists use NSF.gov/AwardSearch to find stories about recent scientific advancements, track funding trends, and report on the impact of federal research funding.
+* Impact: Data-informed journalism enhances public understanding of science and technology, promoting transparency and accountability.
+
+:six: Educators and Students:
+
+* Usage: Educators use the platform to incorporate information about NSF-funded research into their teaching materials. Students use it for research projects and to explore potential research careers.
+* Impact: Access to real-world research data enriches educational experiences and inspires the next generation of scientists and engineers.
+
+:seven: General Public:
+
+* Usage: Citizens use the platform to learn about scientific research funded by their tax dollars, understand the societal benefits of research, and stay informed about scientific progress.
+* Impact: Public access to information about NSF-funded research promotes trust in science, encourages public support for research funding, and enhances science literacy.
+
